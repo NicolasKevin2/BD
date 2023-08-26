@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T00:19:53.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MTKQ_FZBdHvyoQQOVYvG" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T00:20:16.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="H7hXWaM1iHeH1CzpWhRa" version="21.6.9" type="github">
   <diagram name="Página-1" id="C2qhlDqRPUhF-mtVejrP">
     <mxGraphModel dx="794" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="I0er0lBhOSjS7gV3siXm-49" value="FAZ&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0er0lBhOSjS7gV3siXm-20">
           <mxGeometry x="-0.05" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-13" as="offset" />
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I0er0lBhOSjS7gV3siXm-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="I0er0lBhOSjS7gV3siXm-15" target="I0er0lBhOSjS7gV3siXm-1">
@@ -80,7 +80,7 @@
         </mxCell>
         <mxCell id="I0er0lBhOSjS7gV3siXm-50" value="MATRICULA&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0er0lBhOSjS7gV3siXm-46">
           <mxGeometry x="0.0294" y="1" relative="1" as="geometry">
-            <mxPoint x="36" y="1" as="offset" />
+            <mxPoint x="34" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I0er0lBhOSjS7gV3siXm-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="I0er0lBhOSjS7gV3siXm-15" target="I0er0lBhOSjS7gV3siXm-10">
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="I0er0lBhOSjS7gV3siXm-52" value="COORDENA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0er0lBhOSjS7gV3siXm-48">
           <mxGeometry x="-0.0864" y="-2" relative="1" as="geometry">
-            <mxPoint x="33" y="-3" as="offset" />
+            <mxPoint x="31" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
