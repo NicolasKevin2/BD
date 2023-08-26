@@ -1,2 +1,2 @@
 # BD
-Exercícios de aulas em Banco De Dados
+Alguns exercícios em Banco de dados..
