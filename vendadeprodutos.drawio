@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T00:36:37.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nrskuwr3cIpNGSxNTDBn" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T00:38:19.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PAyqeqYPHx6UApYWf3Vb" version="21.7.2" type="github">
   <diagram name="Página-1" id="cItzlpWJskyljSl-lQDW">
     <mxGraphModel dx="794" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SWISUeinObcU3sLyg85e-1" value="ALUNO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="122" width="140" height="78" as="geometry" />
+          <mxGeometry x="280" y="135" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="SWISUeinObcU3sLyg85e-2" value="cod_aluno" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SWISUeinObcU3sLyg85e-1" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -74,6 +74,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="330" as="sourcePoint" />
             <mxPoint x="250" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWb_BqA7zKUlnr8kWwhq-18" value="EMPRESTIMO-ALUNO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wWb_BqA7zKUlnr8kWwhq-10">
+          <mxGeometry x="-0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wWb_BqA7zKUlnr8kWwhq-11" value="ASSUNTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
