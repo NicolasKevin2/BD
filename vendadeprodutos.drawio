@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T01:16:07.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-Ug6YspMgT7vD2tsezan" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T01:16:44.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1y5H8-uq6g9DY5gymxMe" version="21.7.2" type="github">
   <diagram name="Página-1" id="cItzlpWJskyljSl-lQDW">
     <mxGraphModel dx="794" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wWb_BqA7zKUlnr8kWwhq-11" value="ASSUNTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="140" height="104" as="geometry" />
+          <mxGeometry x="20" y="180" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="wWb_BqA7zKUlnr8kWwhq-12" value="cod_assunto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wWb_BqA7zKUlnr8kWwhq-11">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wWb_BqA7zKUlnr8kWwhq-33" value="LIVRARIA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="140" height="130" as="geometry" />
+          <mxGeometry x="520" y="317" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wWb_BqA7zKUlnr8kWwhq-34" value="cod_livraria" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wWb_BqA7zKUlnr8kWwhq-33">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
