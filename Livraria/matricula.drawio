@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T00:20:19.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cy1yG0v2oflmgchN13ln" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T00:21:20.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uknKM4YrqEDOO1KNQszk" version="21.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="934" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -30,7 +30,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-5" value="CURSO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;" parent="1" vertex="1">
-          <mxGeometry x="640" y="160" width="140" height="120" as="geometry" />
+          <mxGeometry x="600" y="160" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9-QWL7e6mqtxBqOt5Rx7-57" value="" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;strokeColor=none;fillColor=none;collapsible=0;" vertex="1" parent="hwRPY_H_E-aeXSSc8FPx-5">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-9" value="DISCIPLINA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;" parent="1" vertex="1">
-          <mxGeometry x="240" y="300" width="160" height="120" as="geometry" />
+          <mxGeometry x="280" y="300" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9-QWL7e6mqtxBqOt5Rx7-17" value="" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;strokeColor=none;fillColor=none;collapsible=0;" vertex="1" parent="hwRPY_H_E-aeXSSc8FPx-9">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -152,10 +152,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hwRPY_H_E-aeXSSc8FPx-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="hwRPY_H_E-aeXSSc8FPx-24" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9-QWL7e6mqtxBqOt5Rx7-62" target="9-QWL7e6mqtxBqOt5Rx7-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="569.9999999999998" y="90" as="sourcePoint" />
             <mxPoint x="599.9999999999998" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="90" />
+              <mxPoint x="760" y="205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-26" value="DISCILINAS_PROFESSOR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;" parent="1" vertex="1">
@@ -203,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-35" value="DISCIPLINAS_MATRICULA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;" parent="1" vertex="1">
-          <mxGeometry x="440" y="300" width="225" height="120" as="geometry" />
+          <mxGeometry x="515" y="300" width="225" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-37" value="COD_DISCIPLINAS_MATRICULA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hwRPY_H_E-aeXSSc8FPx-35" vertex="1">
           <mxGeometry y="30" width="225" height="30" as="geometry" />
@@ -256,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C94Znu9yKtxbw8L8RZEC-3" value="CURSOS_MATRICULA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;" parent="1" vertex="1">
-          <mxGeometry x="570" y="15" width="180" height="120" as="geometry" />
+          <mxGeometry x="530" y="15" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C94Znu9yKtxbw8L8RZEC-4" value="COD_CURSOS_MATRICULA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="C94Znu9yKtxbw8L8RZEC-3" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -297,6 +301,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="489.9999999999998" y="60" as="sourcePoint" />
             <mxPoint x="530" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="60" />
+              <mxPoint x="520" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
