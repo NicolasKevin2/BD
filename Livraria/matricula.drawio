@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T00:57:33.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-yU791MrZ_wAAYL5iPgh" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T01:00:32.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="thMstfRBCbV0cmAkcZOA" version="21.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="836" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="836" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="C94Znu9yKtxbw8L8RZEC-2" value="VLR_CURSO(double)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hwRPY_H_E-aeXSSc8FPx-5" vertex="1">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hwRPY_H_E-aeXSSc8FPx-9" value="DISCIPLINA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;align=center;" parent="1" vertex="1">
+        <mxCell id="hwRPY_H_E-aeXSSc8FPx-9" value="DISCIPLINA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffff88;strokeColor=default;gradientColor=none;swimlaneFillColor=none;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="280" width="195" height="120" as="geometry">
             <mxRectangle x="285" y="300" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -82,7 +82,7 @@
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-11" value="NOME_DISCIPLINA(varchar)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hwRPY_H_E-aeXSSc8FPx-9" vertex="1">
           <mxGeometry y="60" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hwRPY_H_E-aeXSSc8FPx-12" value="QTD_CARGA_HORARIA(time)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hwRPY_H_E-aeXSSc8FPx-9" vertex="1">
+        <mxCell id="hwRPY_H_E-aeXSSc8FPx-12" value="QTD_CARGA_HORARIA(time)" style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;html=1;" parent="hwRPY_H_E-aeXSSc8FPx-9" vertex="1">
           <mxGeometry y="90" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwRPY_H_E-aeXSSc8FPx-13" value="PROFESSOR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFEE05;align=center;" parent="1" vertex="1">
