@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T00:09:25.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="073VUgsQfAj1uz21l2BM" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T00:09:37.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0r8xg3l-9NeP-DxDZt8D" version="21.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1843" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -52,7 +52,7 @@
           <mxGeometry y="180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HslZfG2rWfIciBtdApFi-5" value="LIVROS_VENDA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#D8FFC2;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="40" width="170" height="150" as="geometry" />
+          <mxGeometry x="-55" y="40" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1xq74M5YQCq6-TdLZK5S-43" value="" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;strokeColor=none;fillColor=none;collapsible=0;" vertex="1" parent="HslZfG2rWfIciBtdApFi-5">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -162,8 +162,8 @@
             <mxPoint x="-40" y="255" as="sourcePoint" />
             <mxPoint x="-70" y="145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-80" y="275" />
-              <mxPoint x="-80" y="115" />
+              <mxPoint x="-70" y="275" />
+              <mxPoint x="-70" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
